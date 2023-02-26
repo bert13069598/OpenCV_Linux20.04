@@ -1,0 +1,3 @@
+/home/bert/opencv/HelloCV/CMakeFiles/rebuild_cache.dir
+/home/bert/opencv/HelloCV/CMakeFiles/edit_cache.dir
+/home/bert/opencv/HelloCV/CMakeFiles/HelloCV.dir
